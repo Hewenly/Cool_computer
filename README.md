@@ -8,3 +8,4 @@ This repo is used to record some very cool setting for working on computers.
 
 First see the reference.
 
+![Alt text](https://github.com/Hewenly/Cool_computer/blob/master/img/desktop.png)
