@@ -10,7 +10,7 @@ I finish this part with this share link : [怎样才能让 Win10 的桌面更好
 
 First see the reference.
 
-![Alt text](https://github.com/Hewenly/Cool_computer/blob/master/img/desktop.png)
+![alt text](https://github.com/Hewenly/Cool_computer/blob/master/img/desktop.png)
 
 All you need is :
 
